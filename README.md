@@ -1,5 +1,5 @@
 
-Application codée en C++ permettant la traduction et la visualisation de l'ense,ble des activités d'un serveur donné au travers de ses fichiers logs associés.
+Application codée en C++ permettant la traduction et la visualisation de l'ensemble des activités d'un serveur donné au travers de ses fichiers logs associés.
 Programme de tests automatiques - mode d'emploi
 -------------------------------------------------------------------------------
 test.sh [ repertoire [ fichier.csv ] ]
